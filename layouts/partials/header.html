@@ -1,0 +1,77 @@
+<header class="bg-white shadow-md">
+  <nav class="container mx-auto px-4">
+    <div class="flex justify-between items-center h-20">
+      <!-- Church Logo/Name -->
+      <div class="flex items-center gap-5">
+        <img src="/images/logo.svg" alt="Anchor Logo" style="width: 36px; height: 36px;">
+        <a href="{{ .Site.BaseURL }}" class="text-2xl font-serif text-gray-800">{{ .Site.Title }}</a>
+      </div>
+      <!-- Desktop Navigation -->
+			<div class="hidden md:flex space-x-8">
+			    {{ $currentPage := . }}
+			    {{ range .Site.Sections }}
+			        <div class="relative group">
+			            <button class="flex items-center space-x-1 text-gray-600 hover:text-gray-900">
+			                <a href="{{ .RelPermalink }}">{{ .LinkTitle | default .Title }}</a>
+			                {{ if .Sections }}
+			                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24">
+			                        <polyline points="6 9 12 15 18 9"></polyline>
+			                    </svg>
+			                {{ end }}
+			            </button>
+			            {{ if .Sections }}
+			                <div class="absolute left-0 mt-2 w-48 bg-white rounded-md shadow-lg opacity-0 invisible 
+			                            group-hover:opacity-100 group-hover:visible transition-all duration-200">
+			                    {{ range .Sections }}
+			                        <a href="{{ .RelPermalink }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+			                            {{ .LinkTitle | default .Title }}
+			                        </a>
+			                    {{ end }}
+			                </div>
+			            {{ end }}
+			        </div>
+			    {{ end }}
+			</div>
+			
+			<!-- Mobile Menu Button -->
+			<div class="md:hidden">
+			    <button onclick="toggleMobileMenu()" class="text-gray-600 hover:text-gray-900 focus:outline-none">
+			        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" id="menuIcon" viewBox="0 0 24 24" 
+			             fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+			             stroke-linejoin="round">
+			            <line x1="3" y1="12" x2="21" y2="12"></line>
+			            <line x1="3" y1="6" x2="21" y2="6"></line>
+			            <line x1="3" y1="18" x2="21" y2="18"></line>
+			        </svg>
+			    </button>
+			</div>
+			
+			<!-- Mobile Navigation -->
+			<div id="mobileMenu" class="hidden md:hidden py-4">
+			    {{ range .Site.Sections }}
+			        <div class="mb-4">
+			            <div class="font-medium text-gray-800 mb-2">
+			                <a href="{{ .RelPermalink }}">{{ .LinkTitle | default .Title }}</a>
+			            </div>
+			            {{ if .Sections }}
+			                <div class="pl-4 space-y-2">
+			                    {{ range .Sections }}
+			                        <a href="{{ .RelPermalink }}" class="block text-gray-600 hover:text-gray-900">
+			                            {{ .LinkTitle | default .Title }}
+			                        </a>
+			                    {{ end }}
+			                </div>
+			            {{ end }}
+			        </div>
+			    {{ end }}
+			</div>
+
+  </nav>
+</header>
+
+<script>
+function toggleMobileMenu() {
+  const menu = document.getElementById('mobileMenu');
+  menu.classList.toggle('hidden');
+}
+</script>

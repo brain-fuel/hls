@@ -1,0 +1,21 @@
+{
+  "name": "hopelutheransunbury",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/bun": "latest",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "hugo server -D",
+    "build": "hugo --gc --minify",
+    "tree": "tree -I node_modules"
+  }
+}

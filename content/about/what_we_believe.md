@@ -1,0 +1,30 @@
+---
+title: "What We Believe"
+---
+
+## According to Holy Scripture, and in the unity of the one holy Christian and apostlic Church, we believe, teach, and confess that:
+ 
+- The one and only true God is the Triune God - Father, Son, and Holy Spirit - as revealed by Jesus Christ, the only-begotten Son of the Father, and His prophets, apostles, and evangelists in the Holy Scriptures (Mt. 28:20).
+- Every human being is conceived and born dead to God, is entirely predisposed to sin, is without inherent fear, love, or trust in God and is lacking in the ability or will to turn toward God, is entirely turned against God and is therefore under the sentence of eternal death and damnation (Eph. 2:1-10 and Ps. 51:5).
+- Jesus Christ is true God, eternally begotten of the Father, and at the same time true man, born of the Virgin Mary, and is the only Savior from sin and the only Mediator between God and humanity (Jn. 1:1-3,14; 1 Tim. 2:5; 1 Jn. 5:20; Acts 4:12) - who, by his perfect life and sacrificial death on the cross, has won the entire forgiveness of sins and eternal life for every human being, from the beginning to the end of the world (Rom. 3:21-26; Gal. 4:4-5; 2 Cor. 5:21; 1 Jn. 2:2);
+who rose bodily from the dead on the third day (1 Cor. 15:3-5); and
+who now reigns at the right hand of God as Lord over all (Eph. 4:10-12).
+- We are justified, or declared not guilty, in the sight of God and rescued from sin, death, and damnation not by our works but solely by God's undeserved kindness, His grace given as a free gift through faith in Jesus Christ, whose perfect life and sacrificial death as "the Lamb of God who takes away the sin of the world" fully atone for our sins (Rom. 3:21-28; Eph. 2:8; John 1:29).
+- The blessings and benefits of Jesus' saving death and resurrection, namely the forgiveness of sins, eternal life, and salvation, are offered, delivered, and applied to us by means of the Gospel in all its forms (the preached and written Word, Baptism, Absolution, Lord's Supper), through which the Holy Spirit works faith in Christ. To this end Christ has instituted the Office of the Ministry and sends pastors to preach and administer the holy sacraments in His stead and name (Jn. 6:63; 16:12-15; Lk. 24:47; Mt. 28:19; Jn. 20:21-23; 1 Cor. 11:23-26).
+- Good works, prayer, and holiness of life are the fruit of faith in Christ, not the cause of faith or salvation (Jn. 15:5; Heb. 11:16).
+- The Holy Church is present wherever believers are gathered about Jesus Christ and His gifts, that is, wherever the Gospel of Jesus Christ is purely preached and taught, and Holy Baptism, Holy Absolution, Holy Communion are administered according to Christ's mandate and institution, even though unbelievers or hypocrites may also be numbered among those gathered (Mt. 18:20; Acts 2:42; Mt. 13:47-48).
+- Holy Baptism, which is water applied in the Name of the Triune God according to Jesus' mandate and promise, works rebirth and renewal, delivers and applies the forgiveness of sins, joins the baptized to Jesus' death and resurrection, and grants eternal life and salvation to all who believe the promise of salvation attached to Baptism (Mt 28:19-20; Jn. 3:5; Titus 3:5; Eph. 5:25-26; Rom. 6:4; Col. 2:11-12; 1 Peter 3:21).
+- Holy Absolution, which is the forgiveness of sins spoken by the Pastor to a penitent sinner in Jesus' name, actually offers, delivers, and applies the forgiveness of sins to the repentant person with the full authority of the crucified, risen, and reigning Christ (Mt. 16:19; 18:18; Jn. 20:21-23). The word of forgiveness in Holy Absolution is to be heard as Christ our dear Lord speaking to us Himself (Luke 10:16).
+- Holy Communion, or the Lord's Supper, is the true body and blood of our Lord Jesus Christ given under bread and wine, for Christians to eat and drink, instituted by Jesus Christ Himself, for the forgiveness of their sins (Mt 26:26-29; 1 Cor. 11:23-26).
+- The Christian life is one of continual repentance and faith, from which flow good works as the fruit of faith (Mt. 12:33; Lk. 24:47).
+- Our Lord Jesus Christ will appear visibly on the Last Day to raise the bodies of all the dead, to condemn those who reject Him in unbelief together with the devil and his demons to hell and eternal punishment, and to give eternal life to all who trust in Him for forgiveness, life, and salvation (Rev. 1:7; Mt. 25:31-46; Jn. 5:28-29).
+- Holy Scripture, or the Holy Bible, is the written Word of God, is the very "breath of God" and so is without factual error and is the only source and final authority and judge of all teaching, practice, and life. Holy Scripture preaches the saving death and resurrection of Jesus Christ for the repentance and faith of the sinner (2 Tim. 3:16; 2 Pet. 1:22; Luke 24:47).
+- The Word of God is a two-fold word- the Law, which reveals our sin and seeks and kills the sinner, and the Gospel, which announces, offers, delivers, and applies the forgiveness of sins through the death and resurrection of Jesus Christ, creates faith in Him, and gives new life and identity to the believer in Christ (Rom. 1:16; 3:21-22; Gal. 2:19-20).
+
+## Our creeds and confessions
+
+As members of the Lutheran Church--Missouri Synod, Hope Evangelical Lutheran Church subscribes to The Three Ecumenical or Universal Creeds: The Apostles' Creed, The Nicene Creed, and The Athanasian Creed. We also believe and confess with them the following:
+
+- "The Lutheran Church—Missouri Synod accepts the Scriptures as the inspired and inerrant Word of God, and the LCMS subscribes unconditionally to all the symbolical books of the Evangelical Lutheran Church as a true and unadulterated statement and exposition of the Word of God.
+
+- We accept the Lutheran Confessions as articulated in the Book of Concord of 1580 because they are drawn from the Word of God, and on that account we regard their doctrinal content as a true and binding exposition of Holy Scripture and as authoritative for all pastors, congregations and other rostered church workers of The Lutheran Church—Missouri Synod."

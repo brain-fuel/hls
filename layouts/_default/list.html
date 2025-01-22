@@ -1,0 +1,31 @@
+{{ define "main" }}
+    <div class="container mx-auto px-4 py-8">
+    <h1 class="text-4xl mb-4">
+        {{ .Title }}
+    </h1>
+        <!-- Main About Content -->
+        <div class="prose max-w-none mb-8">
+            {{ .Content }}
+        </div>
+
+        <!-- If you want to list sub-pages -->
+        {{ range .Pages }}
+        <article class="mb-8">
+            <h2 class="text-2xl font-bold mb-4">
+                <a href="{{ .Permalink }}" class="text-gray-800 hover:text-green-600">
+                    {{ .Title }}
+                </a>
+            </h2>
+            <div class="prose max-w-none">
+                {{ with .Summary }}
+                    {{ . | truncate 150 }}
+                {{ end }}
+            </div>
+            <a href="{{ .Permalink }}" class="text-green-600 hover:text-green-700 mt-4 inline-block">
+                Read More →
+            </a>
+        </article>
+        {{ end }}
+    </div>
+{{ end }}
+
