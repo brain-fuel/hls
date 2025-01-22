@@ -17,5 +17,8 @@
     "start": "hugo server -D",
     "build": "hugo --gc --minify",
     "tree": "tree -I node_modules"
+  },
+  "dependencies": {
+    "hugo-cli": "^0.14.0"
   }
 }
